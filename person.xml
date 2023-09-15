@@ -1,0 +1,8 @@
+<person>
+    <lastName>Test Last Name</lastName>
+    <firstName>Test First Name</firstName>
+    <contact>
+        <contactValue>+79027117349</contactValue>
+        <contactType>PHONE</contactType>
+    </contact>
+</person>
